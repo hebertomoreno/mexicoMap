@@ -1,0 +1,9 @@
+		.state {
+			fill: red;
+		}
+		
+		.state.id01 { fill: #ddc; }
+		.state.id02 { fill: #cdd; }
+		.state.id03 { fill: #cdc; }
+		.state.id04 { fill: #dcd; }
+		.state.id05 { fill: lightblue; }
